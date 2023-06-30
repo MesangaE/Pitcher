@@ -1,1 +1,4 @@
 # Pitcher
+As an engineer sometimes we live in a bubble and we forget that it is very import to protect the people we aim to please.
+It is wonderful how the innovations are released everyday but we must pause for a moment and think of the lay man who can't make 
+sense of anything we are doing. As we receive the accolades we also need to remember that there are a vulnerable people we must protect. My aim is to deep dive into the environmental aspects of our evolving technolgy and how it has come to save ansd destroy this world at the same time. What then do we leave for the children yet to come. we have the power to make decisions but the outcomes of our desicions are hardly what we anticipated or what we can control. As industry 4.0 is upion us we have to be more responsible with the decisions we make and how it will affect our home --the earth
